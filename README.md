@@ -1,2 +1,2 @@
 # DFIR-CMS
-Case Management System for Digital Forensics & Incident Response Investigations
+An Open Source Case Management System for Digital Forensics & Incident Response Investigations
